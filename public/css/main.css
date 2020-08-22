@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+  }
+
+.tela img{
+
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    opacity: 0.5;
+
+    
+}
+
+.container {
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
