@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "http://lycan-nt.github.io/Weather-Finder",
   "scripts": {
-    "deploy": "gh-pages -d src views public"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
